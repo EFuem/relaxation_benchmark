@@ -1,0 +1,4 @@
+git+https://github.com/openkim/kim-tools.git
+chgnet
+matgl
+mace-torch
